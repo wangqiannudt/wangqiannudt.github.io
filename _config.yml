@@ -1,3 +1,5 @@
-title: "My Site"
-description: "My personal academic homepage"
-theme: jekyll-theme-hacker
+title: "Qian Wang's Academic Homepage"  # 修改为你的名字或一个更具体的标题
+theme: jekyll-theme-hacker  # 保留或根据需要换成其他 Jekyll 主题
+author: "Qian Wang"  # 增加作者字段，表明主页所有者
+email: "wangqiannudt@sina.com"  # （可选）增加一个联系邮箱字段
+url: "https://wangqiannudt.github.io"  # （推荐）添加你的实际 GitHub Pages URL
